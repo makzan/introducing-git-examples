@@ -5,3 +5,7 @@ An archive of my examples, including working directory.
 == Usage
 
 Un-tar the tar files to view the git-controlled working directory.
+
+For example:
+
+$ tar -xf sample.tar
